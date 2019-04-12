@@ -40,6 +40,57 @@
       Sums the digits characters in a text string
       
    luhn(idNum)
-      Returns true of idNum satisfies the Luhn Algorithm
+      Returns true if idNum satisfies the Luhn Algorithm
 
 */
+
+window.addEventListener('load', function () {
+      /// Retrieve the field/value pairs for the URL
+      var formData = location.search.slice(1);
+})
+
+
+// Func: Runs validation tests when the submit button is clicked
+function runSubmit() {
+
+}
+
+// Func: Validates the credit card CVC number
+function validateCVC() {
+
+}
+
+// Func: Validates that the user has selected the expiration month of the credit card
+function validateMonth() {
+
+}
+
+// Func: Validates that the user has selected the expiration year of the credit card
+function validateYear() {
+
+}
+
+// Func: Validates that the user has entered a valid and legitimate card number
+function validateNumber() {
+
+}
+
+// Func: Validates that the user has selected a credit card type
+function validateCredit() {
+
+}
+
+// Func: Validates that the user has specified the name on the credit card
+function validateName() {
+
+}
+
+// Func: Sums the digits characters in a text string
+function sumDigits(numStr) {
+
+}
+
+// Func: Returns true ff idNum satisfies the Luhn Algorithm
+function luhn(idNum) {
+
+}
